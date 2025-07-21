@@ -43,7 +43,7 @@ p {
 .box {
     margin: auto;
     padding: 16px;
-    background-color: hsl(0, 0%, 100%);
+    background-color: white;
     border-radius: 20px;
     max-width: 290px;
     min-width: 100px;
