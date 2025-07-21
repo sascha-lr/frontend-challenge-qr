@@ -40,7 +40,7 @@ I first started reading the challenge and the style guide and then just went str
 
 ### What I learned
 
-Prior to this, I haven't even learned what a div ```html<div>```is, but because of looking at the code and thinking about what I know about web design from previously using resources like [Framer](https://framer.com), I quickly figured it out. It was an amazing learning experience. I also learned how to center things on a page vertically, what kind of different units there are to specify measurements (px,%,vh,rem,etc.). For that I am really thankful and happy.
+Prior to this, I haven't even learned what a div ```<div>```is, but because of looking at the code and thinking about what I know about web design from previously using resources like [Framer](https://framer.com), I quickly figured it out. It was an amazing learning experience. I also learned how to center things on a page vertically, what kind of different units there are to specify measurements (px,%,vh,rem,etc.). For that I am really thankful and happy.
 
 ### Continued development
 
