@@ -1,6 +1,13 @@
+:root {
+    --bg-color:hsl(212, 45%, 89%);
+    --text-light: hsl(216, 15%, 48%);
+    --text-dark: hsl(218, 44%, 22%);
+    --text-ultralight: hsl(215, 21%, 82%);
+}
+
 body {
-    background-color: hsl(212, 45%, 89%);
-    font-family: Outfit;
+    background-color: var(--bg-color);
+    font-family: "Outfit", Helvetica, sans-serif;
     text-align: center;
     display:flex;
 	height: 100vh;
@@ -12,20 +19,20 @@ h1 {
     font-size: 22px;
     font-weight: 700;
     margin: 15px;
-    color: hsl(218, 44%, 22%);
+    color: var(--text-dark);
 }
 
 p {
     font-size: 15px;
     font-weight: 400;
     margin: 15px;
-    color: hsl(216, 15%, 48%);
+    color: var(--text-light);
 }
 
 .attribution {
     font-size: 10px;
     font-weight: 400;
-    color: hsl(215, 21%, 82%);
+    color: var(--text-ultralight);
 }
 
 .box img {
@@ -44,5 +51,5 @@ p {
 }
 
 .attribution a {
-    color: hsl(215, 21%, 82%);
+    color: var(--text-ultralight);
 }
